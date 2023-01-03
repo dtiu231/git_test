@@ -1,0 +1,4 @@
+Hello world!
+This is my first Odin project modification to be remembered for the rest of my life
+Fuck GT! 
+Derrick
